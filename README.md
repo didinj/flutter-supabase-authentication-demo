@@ -1,6 +1,6 @@
 # Flutter Authentication with Supabase
 
-Read more tutorial [here]().
+Read more tutorial [here](https://www.djamware.com/post/6850d26bdd4b3a75ae07416e/flutter-authentication-with-supabase).
 
 ## Getting Started
 
